@@ -1,0 +1,142 @@
+#EXTM3U
+#EXTINF:0 channel-id="pluto-tv-cine-sucessos" tvg-logo="http://images.pluto.tv/channels/5f120e94a5714d00074576a1/solidLogoPNG.png" group-title="Filmes", Pluto TV Cine Sucessos
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f120e94a5714d00074576a1/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=798e50c0-df5b-11eb-908d-89264a885115&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=588a24c5-ba17-4558-b4e7-10f762dc7623&userId=&serverSideAds=true
+
+#EXTINF:0 channel-id="pluto-tv-filmes-acao" tvg-logo="http://images.pluto.tv/channels/5f120f41b7d403000783a6d6/solidLogoPNG.png" group-title="Filmes", Pluto TV Filmes Ação
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f120f41b7d403000783a6d6/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=798f3b20-df5b-11eb-908d-89264a885115&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=8f0c786e-839c-4c7c-9433-92a1b53bea4c&userId=&serverSideAds=true
+
+#EXTINF:0 channel-id="pluto-tv-cine-comedia-1" tvg-logo="http://images.pluto.tv/channels/5f12101f0b12f00007844c7c/solidLogoPNG.png" group-title="Filmes", Pluto TV Cine Comédia
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f12101f0b12f00007844c7c/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=798f6230-df5b-11eb-908d-89264a885115&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=c24efd91-d084-4a4b-b0a6-64bbb5aea00e&userId=&serverSideAds=true
+
+#EXTINF:0 channel-id="pluto-tv-cine-drama-1" tvg-logo="http://images.pluto.tv/channels/5f1210d14ae1f80007bafb1d/solidLogoPNG.png" group-title="Filmes", Pluto TV Cine Drama
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f1210d14ae1f80007bafb1d/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=798fb050-df5b-11eb-908d-89264a885115&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=d3af554b-e8c8-48ee-99e8-389c33079743&userId=&serverSideAds=true
+
+#EXTINF:0 channel-id="pluto-tv-cine-terror-1" tvg-logo="http://images.pluto.tv/channels/5f12111c9e6c2c00078ef3bb/solidLogoPNG.png" group-title="Filmes", Pluto TV Cine Terror
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f12111c9e6c2c00078ef3bb/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=798fb051-df5b-11eb-908d-89264a885115&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=fde845c8-12fb-4cae-a7cc-d079b608c17a&userId=&serverSideAds=true
+
+#EXTINF:0 channel-id="pluto-tv-series-1" tvg-logo="http://images.pluto.tv/channels/5f121262a189a800076b9386/solidLogoPNG.png" group-title="Entretenimento", Pluto TV Séries
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f121262a189a800076b9386/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=798fd760-df5b-11eb-908d-89264a885115&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=4eb7a296-43ab-4c52-9175-d240061aa961&userId=&serverSideAds=true
+
+#EXTINF:0 channel-id="pluto-tv-retro-2" tvg-logo="http://images.pluto.tv/channels/5f1212ad1728050007a523b8/solidLogoPNG.png" group-title="Entretenimento", Pluto TV Retrô
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f1212ad1728050007a523b8/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=79902580-df5b-11eb-908d-89264a885115&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=c6a15cd3-6598-46c0-bf75-13b7bab7c3a1&userId=&serverSideAds=true
+
+#EXTINF:0 channel-id="mtv-pluto-tv1" tvg-logo="http://images.pluto.tv/channels/5f1212fb81e85c00077ae9ef/solidLogoPNG.png" group-title="Entretenimento", MTV Pluto TV
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f1212fb81e85c00077ae9ef/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=79904c90-df5b-11eb-908d-89264a885115&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=bec59dbf-f071-46ef-828a-7620469d2d54&userId=&serverSideAds=true
+
+#EXTINF:0 channel-id="pluto-tv-anime-1" tvg-logo="http://images.pluto.tv/channels/5f12136385bccc00070142ed/solidLogoPNG.png" group-title="Entretenimento", Pluto TV Anime
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f12136385bccc00070142ed/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=7990c1c0-df5b-11eb-908d-89264a885115&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=98821057-58e7-4b3f-ad33-f9fc7cbe8580&userId=&serverSideAds=true
+
+#EXTINF:0 channel-id="pluto-tv-natureza" tvg-logo="http://images.pluto.tv/channels/5f1213ba0ecebc00070e170f/solidLogoPNG.png" group-title="Curiosidades", Pluto TV Natureza
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f1213ba0ecebc00070e170f/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=79910fe0-df5b-11eb-908d-89264a885115&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=1ec22ba7-fe04-487d-92fb-f584ccc71dcf&userId=&serverSideAds=true
+
+#EXTINF:0 channel-id="pluto-tv-junior-1" tvg-logo="http://images.pluto.tv/channels/5f12141b146d760007934ea7/solidLogoPNG.png" group-title="Infantil", Pluto TV Junior
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f12141b146d760007934ea7/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=79918510-df5b-11eb-908d-89264a885115&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=bc7403a5-8560-47c3-85c3-f2ace3e6e714&userId=&serverSideAds=true
+
+#EXTINF:0 channel-id="nick-jr-club-1" tvg-logo="http://images.pluto.tv/channels/5f121460b73ac6000719fbaf/solidLogoPNG.png" group-title="Infantil", Nick Jr. Club
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f121460b73ac6000719fbaf/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=7991ac20-df5b-11eb-908d-89264a885115&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=2e13aa98-4688-4b54-bf42-736a2b9becd6&userId=&serverSideAds=true
+
+#EXTINF:0 channel-id="pluto-tv-kids-1" tvg-logo="http://images.pluto.tv/channels/5f1214a637c6fd00079c652f/solidLogoPNG.png" group-title="Infantil", Pluto TV Kids
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f1214a637c6fd00079c652f/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=7991fa40-df5b-11eb-908d-89264a885115&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=4efb6624-07c7-44be-b6cb-a3b9935a85e7&userId=&serverSideAds=true
+
+#EXTINF:0 channel-id="nick-classico-ptv1" tvg-logo="http://images.pluto.tv/channels/5f12151794c1800007a8ae63/solidLogoPNG.png" group-title="Infantil", Nick Clássico
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f12151794c1800007a8ae63/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=79926f70-df5b-11eb-908d-89264a885115&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=2962ce8c-f7bd-4bb5-b75a-6f10a8fe48d2&userId=&serverSideAds=true
+
+#EXTINF:0 channel-id="pluto-tv-filmes-suspense" tvg-logo="http://images.pluto.tv/channels/5f171d3442a0500007362f22/solidLogoPNG.png" group-title="Filmes", Filmes Suspense
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f171d3442a0500007362f22/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=7993a7f0-df5b-11eb-908d-89264a885115&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=e05efa26-e2c9-42dc-a315-f734eb2b8e78&userId=&serverSideAds=true
+
+#EXTINF:0 channel-id="pluto-tv-cine-familia-ptv1" tvg-logo="http://images.pluto.tv/channels/5f171f032cd22e0007f17f3d/solidLogoPNG.png" group-title="Filmes", Pluto TV Cine Família
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f171f032cd22e0007f17f3d/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=79941d20-df5b-11eb-908d-89264a885115&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=08241be8-1a2d-4625-8519-45bb4fd0b793&userId=&serverSideAds=true
+
+#EXTINF:0 channel-id="pluto-tv-cine-romance-ptv1" tvg-logo="http://images.pluto.tv/channels/5f171f988ab9780007fa95ea/solidLogoPNG.png" group-title="Filmes", Pluto TV Cine Romance
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f171f988ab9780007fa95ea/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=79944430-df5b-11eb-908d-89264a885115&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=d8391d5b-9f95-4ffc-9518-a08f86a62626&userId=&serverSideAds=true
+
+#EXTINF:0 channel-id="pluto-tv-investigacao-ptv1" tvg-logo="http://images.pluto.tv/channels/5f32cf37c9ff2b00082adbc8/solidLogoPNG.png" group-title="Curiosidades", Pluto TV Investigação
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f32cf37c9ff2b00082adbc8/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=7994b960-df5b-11eb-908d-89264a885115&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=ab5fd100-e488-4c65-9909-4c13c5c0cb0b&userId=&serverSideAds=true
+
+#EXTINF:0 channel-id="pluto-tv-vida-real-ptv1" tvg-logo="http://images.pluto.tv/channels/5f32d4d9ec194100070c7449/solidLogoPNG.png" group-title="Curiosidades", Pluto TV Vida Real
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f32d4d9ec194100070c7449/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=799555a0-df5b-11eb-908d-89264a885115&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=6197f86b-c73d-424a-9eaf-d7b4dbbcce9b&userId=&serverSideAds=true
+
+#EXTINF:0 channel-id="porta-dos-fundos" tvg-logo="http://images.pluto.tv/channels/5f36f2346ede750007332d11/solidLogoPNG.png" group-title="Comédia", Porta dos Fundos
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f36f2346ede750007332d11/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=799618f0-df5b-11eb-908d-89264a885115&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=15864bf8-ed7d-4c84-8a11-3355b352bb80&userId=&serverSideAds=true
+
+#EXTINF:0 channel-id="babyfirst-ptv1" tvg-logo="http://images.pluto.tv/channels/5f4fb4cf605ddf000748e16f/solidLogoPNG.png" group-title="Infantil", Babyfirst
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f4fb4cf605ddf000748e16f/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=79964000-df5b-11eb-908d-89264a885115&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=10f319d1-46e7-4f22-a8ea-bf7c6b4bd238&userId=&serverSideAds=true
+
+#EXTINF:0 channel-id="failarmy-ptv1" tvg-logo="http://images.pluto.tv/channels/5f5141c1605ddf000748eb1b/solidLogoPNG.png" group-title="Comédia", FailArmy
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f5141c1605ddf000748eb1b/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=79968e20-df5b-11eb-908d-89264a885115&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=9fb80ebf-68ca-4041-a7d9-fae7227f9690&userId=&serverSideAds=true
+
+#EXTINF:0 channel-id="people-are-awesome-ptv1" tvg-logo="http://images.pluto.tv/channels/5f515d080e738d000739e19c/solidLogoPNG.png" group-title="Entretenimento", People are Awesome
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f515d080e738d000739e19c/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=7996dc40-df5b-11eb-908d-89264a885115&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=c3dfc642-9087-43e1-acd2-3a2c52ae81ca&userId=&serverSideAds=true
+
+#EXTINF:0 channel-id="the-pet-collective-ptv1" tvg-logo="http://images.pluto.tv/channels/5f515ebac01c0f00080e8439/solidLogoPNG.png" group-title="Comédia", The Pet Collective
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f515ebac01c0f00080e8439/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=79972a60-df5b-11eb-908d-89264a885115&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=9f1d614e-e2a7-4dab-a85e-59952042f9dd&userId=&serverSideAds=true
+
+#EXTINF:0 channel-id="fashionbox" tvg-logo="http://images.pluto.tv/channels/5f516730b78b7600079294f5/solidLogoPNG.png" group-title="Estilo de Vida", Pluto TV Fashionbox
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f516730b78b7600079294f5/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=79979f90-df5b-11eb-908d-89264a885115&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=575de212-02d0-4d82-bfae-1151650b5f43&userId=&serverSideAds=true
+
+#EXTINF:0 channel-id="pluto-tv-filmes-nacionais" tvg-logo="http://images.pluto.tv/channels/5f5a545d0dbf7f0007c09408/solidLogoPNG.png" group-title="Filmes", Pluto TV Filmes Nacionais
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f5a545d0dbf7f0007c09408/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=7998ff20-df5b-11eb-908d-89264a885115&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=4da359b8-bf89-4960-8d19-5ac8f32937f5&userId=&serverSideAds=true
+
+#EXTINF:0 channel-id="o-reino-infantil-ptv1" tvg-logo="http://images.pluto.tv/channels/5f5c216df68f920007888315/solidLogoPNG.png" group-title="Infantil", O Reino Infantil
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f5c216df68f920007888315/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=79994d40-df5b-11eb-908d-89264a885115&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=b1b1f4b8-5082-4558-ac99-5d7f6776a6eb&userId=&serverSideAds=true
+
+#EXTINF:0 channel-id="mtv-are-you-the-one-ptv1" tvg-logo="http://images.pluto.tv/channels/5f6108d8cc331900075e98e4/solidLogoPNG.png" group-title="Entretenimento", MTV Are you the One?
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f6108d8cc331900075e98e4/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=79997450-df5b-11eb-908d-89264a885115&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=dfc5d404-223f-44c0-bb07-beccccdc02c0&userId=&serverSideAds=true
+
+#EXTINF:0 channel-id="naruto-ptv1" tvg-logo="http://images.pluto.tv/channels/5f6df5a173d7340007c559f7/solidLogoPNG.png" group-title="Entretenimento", Naruto
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f6df5a173d7340007c559f7/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=79999b60-df5b-11eb-908d-89264a885115&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=b031e4d9-616f-4af4-adf0-a16bf6718733&userId=&serverSideAds=true
+
+#EXTINF:0 channel-id="a-vida-moderna-de-rocko" tvg-logo="http://images.pluto.tv/channels/5f6df6293a12e10007017396/solidLogoPNG.png" group-title="Infantil", A vida moderna de Rocko
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f6df6293a12e10007017396/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=7999e980-df5b-11eb-908d-89264a885115&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=e6d361d3-1a59-429e-b781-cfd79844dd78&userId=&serverSideAds=true
+
+#EXTINF:0 channel-id="turma-da-monica" tvg-logo="http://images.pluto.tv/channels/5f997e44949bc70007a6941e/solidLogoPNG.png" group-title="Infantil", Turma da Mônica
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f997e44949bc70007a6941e/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=7999e981-df5b-11eb-908d-89264a885115&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=1e67a9dd-fea4-470d-90c2-9e575a79d8c0&userId=&serverSideAds=true
+
+#EXTINF:0 channel-id="as-pistas-de-blue" tvg-logo="http://images.pluto.tv/channels/5f99aad4e82db50007fac4b2/solidLogoPNG.png" group-title="Infantil", As  Pistas de Blue
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f99aad4e82db50007fac4b2/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=799a37a0-df5b-11eb-908d-89264a885115&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=738afa88-5e6e-46f0-a62d-b322ea2c801f&userId=&serverSideAds=true
+
+#EXTINF:0 channel-id="nosey-escandalos-ptv2" tvg-logo="http://images.pluto.tv/channels/5f9b05a99547eb0007676b02/solidLogoPNG.png" group-title="Entretenimento", Nosey Escândalos
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f9b05a99547eb0007676b02/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=799a5eb0-df5b-11eb-908d-89264a885115&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=d5a2618f-97eb-454c-bed8-ca071609a013&userId=&serverSideAds=true
+
+#EXTINF:0 channel-id="nosey-casos-ptv2" tvg-logo="http://images.pluto.tv/channels/5f9b096236af340008da3779/solidLogoPNG.png" group-title="Entretenimento", Nosey Casos
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f9b096236af340008da3779/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=799a5eb1-df5b-11eb-908d-89264a885115&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=13ec6ece-08e7-4b00-b698-f5361855e798&userId=&serverSideAds=true
+
+#EXTINF:0 channel-id="pluto-tv-cine-classicos" tvg-logo="http://images.pluto.tv/channels/5fa1612a669ba0000702017b/solidLogoPNG.png" group-title="Filmes", Pluto TV Cine Clássicos
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5fa1612a669ba0000702017b/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=799afaf0-df5b-11eb-908d-89264a885115&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=3663ad7c-f01e-4232-b928-0eda1844dfd8&userId=&serverSideAds=true
+
+#EXTINF:0 channel-id="guia-de-canais" tvg-logo="http://images.pluto.tv/channels/5fa97a8a75cc210007c9041d/solidLogoPNG.png" group-title="Pluto TV", Guia de Canais
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5fa97a8a75cc210007c9041d/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=799b9730-df5b-11eb-908d-89264a885115&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=bb0d6f73-4f39-48dd-b2e7-5894eab53f9d&userId=&serverSideAds=true
+
+#EXTINF:0 channel-id="pluto-tv-misterios-ptv1" tvg-logo="http://images.pluto.tv/channels/5fac52f142044f00078e2a51/solidLogoPNG.png" group-title="Curiosidades", Pluto TV Mistérios
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5fac52f142044f00078e2a51/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=799c0c60-df5b-11eb-908d-89264a885115&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=ba282993-b059-47a5-a628-dc1847b9c260&userId=&serverSideAds=true
+
+#EXTINF:0 channel-id="tastemade-ptv2" tvg-logo="http://images.pluto.tv/channels/5fd1419a3b4f4b000773ba85/solidLogoPNG.png" group-title="Estilo de Vida", Tastemade
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5fd1419a3b4f4b000773ba85/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=799c3370-df5b-11eb-908d-89264a885115&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=02dd7e93-7fb8-461f-a1ac-daa3ce0c60ca&userId=&serverSideAds=true
+
+#EXTINF:0 channel-id="tokusato-ptv1" tvg-logo="http://images.pluto.tv/channels/5ff609de50ab210008025c1b/solidLogoPNG.png" group-title="Entretenimento", Tokusato
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ff609de50ab210008025c1b/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=799ccfb0-df5b-11eb-908d-89264a885115&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=6b2965ab-8706-47fd-a610-03f4dca25a5f&userId=&serverSideAds=true
+
+#EXTINF:0 channel-id="bet-pluto-tv-ptv1" tvg-logo="http://images.pluto.tv/channels/5ff768b6a4c8b80008498610/solidLogoPNG.png" group-title="Entretenimento", BET Pluto TV
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ff768b6a4c8b80008498610/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=799ccfb1-df5b-11eb-908d-89264a885115&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=f2b017da-33c1-4cad-b562-8c7da47d48a6&userId=&serverSideAds=true
+
+#EXTINF:0 channel-id="pluto-tv-comedia" tvg-logo="http://images.pluto.tv/channels/6001f3018502100007f528ac/solidLogoPNG.png" group-title="Comédia", Pluto TV Comédia
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/6001f3018502100007f528ac/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=799d44e0-df5b-11eb-908d-89264a885115&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=03bdcc85-3054-4a9c-9643-7b6e6da89a5b&userId=&serverSideAds=true
+
+#EXTINF:0 channel-id="loupe-ptv2" tvg-logo="http://images.pluto.tv/channels/600b248969c6580007e91a2d/solidLogoPNG.png" group-title="Estilo de Vida", Loupe
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/600b248969c6580007e91a2d/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=799dba10-df5b-11eb-908d-89264a885115&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=7d9f3d05-c622-4f58-9a6e-f34827082ee9&userId=&serverSideAds=true
+
+#EXTINF:0 channel-id="pluto-tv-paisagens-por-stingray" tvg-logo="http://images.pluto.tv/channels/604a8dedbca75b0007b1c753/solidLogoPNG.png" group-title="Curiosidades", Pluto TV Paisagens por Stingray
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/604a8dedbca75b0007b1c753/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=799de120-df5b-11eb-908d-89264a885115&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=8c73feef-93ee-42aa-b860-a1a8ca02c28f&userId=&serverSideAds=true
+
+#EXTINF:0 channel-id="pluto-tv-shows-por-stingray" tvg-logo="http://images.pluto.tv/channels/604b91e0692f770007d9f33f/solidLogoPNG.png" group-title="Música", Pluto TV Shows por Stingray
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/604b91e0692f770007d9f33f/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=799e5650-df5b-11eb-908d-89264a885115&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=fd5b387c-b6e0-45ed-845f-18e57d4709e7&userId=&serverSideAds=true
+
+#EXTINF:0 channel-id="pluto-tv-karaoke-por-stingray" tvg-logo="http://images.pluto.tv/channels/604b99d633a72b00078e05ad/solidLogoPNG.png" group-title="Música", Pluto TV Karaokê por Stingray
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/604b99d633a72b00078e05ad/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=799e7d60-df5b-11eb-908d-89264a885115&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=fa924ccb-c4d0-482e-b27e-41703a6ea0d0&userId=&serverSideAds=true
+
+#EXTINF:0 channel-id="south-park-ptv1" tvg-logo="http://images.pluto.tv/channels/609ae66b359b270007869ff1/solidLogoPNG.png" group-title="Comédia", South Park
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/609ae66b359b270007869ff1/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=799ef290-df5b-11eb-908d-89264a885115&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=acc0194a-c541-4109-83c5-2c6ccb55de75&userId=&serverSideAds=true
+
+#EXTINF:0 channel-id="bet-being-mary-jane" tvg-logo="http://images.pluto.tv/channels/60a8126a0ac3970007f850fe/solidLogoPNG.png" group-title="Entretenimento", BET Being Mary Jane
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/60a8126a0ac3970007f850fe/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=799f67c0-df5b-11eb-908d-89264a885115&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=231234f0-fe1e-43aa-9cef-7b3dd93b0951&userId=&serverSideAds=true
+
