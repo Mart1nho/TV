@@ -141,6 +141,24 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/604b91e0692f770007d
 #EXTINF:0 channel-id="pluto-tv-karaoke-por-stingray" tvg-logo="http://images.pluto.tv/channels/604b99d633a72b00078e05ad/colorLogoPNG.png" group-title="PLUTO TV BRASIL", Pluto TV Karaokê por Stingray
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/604b99d633a72b00078e05ad/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=7d75b870-c883-11eb-a960-3d434807f51f&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=b7876551-8061-467d-8397-c6677dbb61db&userId=&serverSideAds=true
 
+#EXTINF:-1 tvg-logo="https://imgur.com/6wAtNL2.png" group-title="PLUTO TV BRASIL",America Latino
+https://origin-02.nxplay.com.br/AMERICOLATINO/video.m3u8?token=
+
+#EXTINF:-1 tvg-logo="https://imgur.com/Gv7X98I.png" group-title="PLUTO TV BRASIL",Canal BRA
+https://origin-02.nxplay.com.br/BRAmusic/video.m3u8?token=
+
+#EXTINF:-1 tvg-logo="https://imgur.com/bMfLhTo.png" group-title="PLUTO TV BRASIL",Canal Mega
+https://origin-02.nxplay.com.br/MEGA/video.m3u8?token=
+
+#EXTINF:-1 tvg-logo="https://imgur.com/lTzDcA0.png" group-title="PLUTO TV BRASIL",Canal SCH
+https://origin-02.nxplay.com.br/SCH/video.m3u8?token=
+
+#EXTINF:-1 tvg-logo="https://imgur.com/RXNGMR5.png" group-title="PLUTO TV BRASIL",Classic Hits
+https://origin-02.nxplay.com.br/classichit/video.m3u8
+
+#EXTINF:-1 tvg-id="LoveNature.eu" tvg-logo="https://i.imgur.com/sEU9F2h.png" group-title="PLUTO TV BRASIL",Discovery Channel
+http://vipeiptv.com:25461/marc82311ip/marc82311ip/856038
+
 #EXTINF:-1 tvg-id="Premiereclubes.br" tvg-logo="https://i.imgur.com/6uxBFpQ.png" group-title="PLUTO TV BRASIL",Premiere Clubes HD
 https://newedge.eu-central-1.edge.mycdn.live/live/esportes10/esportes10_2000/index.m3u8
 
