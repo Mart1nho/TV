@@ -1,7 +1,22 @@
 #EXTM3U url-tvg="https://raw.githubusercontent.com/Mart1nho/TV/main/epg.xml"
 
-#EXTINF:0 channel-id="guia-de-canais" tvg-logo="https://imgur.com/JSs5V3b.png" group-title="PLUTO TV BRASIL", Guia de Canais
-http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5fa97a8a75cc210007c9041d/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=97848732-629b-11eb-86b1-3facc9da388a&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=051f3c1e-eeef-459d-b6b9-8b3a25af4b87&userId=&serverSideAds=true
+#EXTINF:-1 tvg-id="Premiereclubes.br" tvg-logo="https://i.imgur.com/6uxBFpQ.png" group-title="PLUTO TV BRASIL",Premiere Clubes HD
+https://newedge.eu-central-1.edge.mycdn.live/live/esportes10/esportes10_2000/index.m3u8?token=
+
+#EXTINF:-1 tvg-id="LiveEI" tvg-name="TNT Sports" tvg-logo="https://imgur.com/bHwRXLk.png" group-title="PLUTO TV BRASIL",TNT Sports
+https://glxlmn026c.singularcdn.net.br/playout_01/playlist.m3u8
+
+#EXTINF:-1 tvg-id="LiveEI" tvg-name="TNT Sports 2" tvg-logo="https://imgur.com/bHwRXLk.png" group-title="PLUTO TV BRASIL",TNT Sports 2
+https://glxlmn026c.singularcdn.net.br/playout_02/playlist.m3u8
+
+#EXTINF:-1 tvg-id="LiveEI" tvg-name="TNT Sports 3" tvg-logo="https://imgur.com/bHwRXLk.png" group-title="PLUTO TV BRASIL",TNT Sports 3
+https://glxlmn026c.singularcdn.net.br/playout_03/playlist.m3u8
+
+#EXTINF:-1 tvg-id="LiveEI" tvg-name="TNT Sports 4" tvg-logo="https://imgur.com/bHwRXLk.png" group-title="PLUTO TV BRASIL",TNT Sports 4
+https://glxlmn026c.singularcdn.net.br/playout_04/playlist.m3u8
+
+#EXTINF:-1 tvg-id="LiveEI" tvg-name="TNT Sports 5" tvg-logo="https://imgur.com/bHwRXLk.png" group-title="PLUTO TV BRASIL",TNT Sports 5
+https://glxlmn026c.singularcdn.net.br/playout_05/playlist.m3u8
 
 #EXTINF:0 channel-id="pluto-tv-cine-sucessos" tvg-logo="https://imgur.com/6k7cOAE.png" group-title="PLUTO TV BRASIL", Pluto TV Cine Sucessos
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f120e94a5714d00074576a1/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=977e45a0-629b-11eb-86b1-3facc9da388a&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=52960630-50b9-4a4d-b84b-6ed25b88774b&userId=&serverSideAds=true
@@ -158,9 +173,3 @@ https://origin-02.nxplay.com.br/classichit/video.m3u8
 
 #EXTINF:-1 tvg-id="LoveNature.eu" tvg-logo="http://168.205.87.198/logocanais/discovery.png" group-title="PLUTO TV BRASIL",Discovery Channel
 http://vipeiptv.com:25461/marc82311ip/marc82311ip/856038
-
-#EXTINF:-1 tvg-id="Premiereclubes.br" tvg-logo="https://i.imgur.com/6uxBFpQ.png" group-title="PLUTO TV BRASIL",Premiere Clubes HD
-https://newedge.eu-central-1.edge.mycdn.live/live/esportes10/esportes10_2000/index.m3u8
-
-#EXTINF:-1 tvg-id="Premiereclubes.br" tvg-logo="https://i.imgur.com/6uxBFpQ.png" group-title="PLUTO TV BRASIL",Premiere Clubes
-https://newedge.eu-central-1.edge.mycdn.live/live/esportes10/playlist.m3u8
