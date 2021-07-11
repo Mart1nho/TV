@@ -1,7 +1,7 @@
 #EXTM3U url-tvg="https://raw.githubusercontent.com/Mart1nho/TV/main/epg.xml"
 
 
-#EXTINF:-1 tvg-id="Sportv.br" tvg-logo="https://i.imgur.com/YzY6fI2.png" group-title="ESPORTES",SporTV HD
+#EXTINF:-1 tvg-id="Sportv.br" tvg-logo="https://i.imgur.com/YzY6fI2.png" group-title="ESPORTES",SporTV
 https://newedge.eu-central-1.edge.mycdn.live/live/vintequatrohrs2/vintequatrohrs2_2000/index.m3u8
 
 #EXTINF:-1 tvg-id="Premiereclubes.br" tvg-logo="https://i.imgur.com/6uxBFpQ.png" group-title="ESPORTES",Premiere Clubes
