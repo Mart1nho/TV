@@ -1,29 +1,15 @@
 #EXTM3U url-tvg="https://raw.githubusercontent.com/Mart1nho/TV/main/epg.xml"
 
 
-#EXTINF:-1 tvg-id="Sportv.br" tvg-logo="https://i.imgur.com/YzY6fI2.png" group-title="ESPORTES",SporTV HD
-https://newedge.eu-central-1.edge.mycdn.live/live/vintequatrohrs2/vintequatrohrs2_2000/index.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/KJC8QgR.png" group-title="TV",D+TV
+https://stmv1.samcast.com.br/demaistv6503/demaistv6503/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Sportv.br" tvg-logo="https://i.imgur.com/YzY6fI2.png" group-title="ESPORTES",SporTV
-http://srvtv.online:80/981AGHJ76/3846590345/6910
+#EXTINF:-1 tvg-logo="https://imgur.com/sWq5Hwi.png" group-title="TV",TV NOVA PLAY
+https://srv4.zcast.com.br/tvnovaplay/tvnovaplay/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Premiereclubes.br" tvg-logo="https://i.imgur.com/6uxBFpQ.png" group-title="ESPORTES",Premiere Clubes
-https://newedge.eu-central-1.edge.mycdn.live/live/esportes10/esportes10_2000/index.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/j9L640w.png" group-title="TV",ARAGUAIA TV
+https://video01.kshost.com.br/mayra5349/mayra5349/playlist.m3u8?t=1626142000
 
-#EXTINF:-1 tvg-id="LiveEI" tvg-name="TNT Sports" tvg-logo="https://imgur.com/A9ORtcR.png" group-title="ESPORTES",TNT Sports
-https://glxlmn026c.singularcdn.net.br/playout_01/playlist.m3u8
-
-#EXTINF:-1 tvg-id="LiveEI" tvg-name="TNT Sports 2" tvg-logo="https://imgur.com/A9ORtcR.png" group-title="ESPORTES",TNT Sports 2
-https://glxlmn026c.singularcdn.net.br/playout_02/playlist.m3u8
-
-#EXTINF:-1 tvg-id="LiveEI" tvg-name="TNT Sports 3" tvg-logo="https://imgur.com/A9ORtcR.png" group-title="ESPORTES",TNT Sports 3
-https://glxlmn026c.singularcdn.net.br/playout_03/playlist.m3u8
-
-#EXTINF:-1 tvg-id="LiveEI" tvg-name="TNT Sports 4" tvg-logo="https://imgur.com/A9ORtcR.png" group-title="ESPORTES",TNT Sports 4
-https://glxlmn026c.singularcdn.net.br/playout_04/playlist.m3u8
-
-#EXTINF:-1 tvg-id="LiveEI" tvg-name="TNT Sports 5" tvg-logo="https://imgur.com/A9ORtcR.png" group-title="ESPORTES",TNT Sports 5
-https://glxlmn026c.singularcdn.net.br/playout_05/playlist.m3u8
 
 #EXTINF:0 channel-id="pluto-tv-cine-sucessos" tvg-logo="https://imgur.com/6k7cOAE.png" group-title="PLUTO TV BRASIL", Pluto TV Cine Sucessos
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f120e94a5714d00074576a1/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=977e45a0-629b-11eb-86b1-3facc9da388a&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=52960630-50b9-4a4d-b84b-6ed25b88774b&userId=&serverSideAds=true
@@ -178,8 +164,33 @@ https://origin-02.nxplay.com.br/SCH/video.m3u8?token=
 #EXTINF:-1 tvg-logo="https://imgur.com/RXNGMR5.png" group-title="MUSICA",Classic Hits
 https://origin-02.nxplay.com.br/classichit/video.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.m3u.cl/logo/2_Zapping_Music.png" group-title="MUSICA", Zapping Music
-https://zmlive.zappingtv.com/zm-free/zm.smil/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-logo="https://imgur.com/y4BLAM7.png" group-title="MUSICA", Zapping Music
+https://zmlive.zappingtv.com/zm-free/zm.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-id="LoveNature.eu" tvg-logo="https://imgur.com/pSGaYxf.png" group-title="PLUTO TV BRASIL",Discovery Channel
+
+#EXTINF:-1 tvg-id="Discovery Channel" tvg-logo="https://imgur.com/pSGaYxf.png" group-title="PLUTO TV BRASIL",Discovery Channel
 http://tvdns.tech:80/768685875765/768685775775/757923
+
+#EXTINF:-1 tvg-id="Sportv.br" tvg-logo="https://i.imgur.com/YzY6fI2.png" group-title="ESPORTES",SporTV HD
+https://newedge.eu-central-1.edge.mycdn.live/live/vintequatrohrs2/vintequatrohrs2_2000/index.m3u8
+
+#EXTINF:-1 tvg-id="Sportv.br" tvg-logo="https://i.imgur.com/YzY6fI2.png" group-title="ESPORTES",SporTV
+http://srvtv.online:80/981AGHJ76/3846590345/6910
+
+#EXTINF:-1 tvg-id="Premiereclubes.br" tvg-logo="https://i.imgur.com/6uxBFpQ.png" group-title="ESPORTES",Premiere Clubes
+https://newedge.eu-central-1.edge.mycdn.live/live/esportes10/esportes10_2000/index.m3u8
+
+#EXTINF:-1 tvg-id="LiveEI" tvg-name="TNT Sports" tvg-logo="https://imgur.com/A9ORtcR.png" group-title="ESPORTES",TNT Sports
+https://glxlmn026c.singularcdn.net.br/playout_01/playlist.m3u8
+
+#EXTINF:-1 tvg-id="LiveEI" tvg-name="TNT Sports 2" tvg-logo="https://imgur.com/A9ORtcR.png" group-title="ESPORTES",TNT Sports 2
+https://glxlmn026c.singularcdn.net.br/playout_02/playlist.m3u8
+
+#EXTINF:-1 tvg-id="LiveEI" tvg-name="TNT Sports 3" tvg-logo="https://imgur.com/A9ORtcR.png" group-title="ESPORTES",TNT Sports 3
+https://glxlmn026c.singularcdn.net.br/playout_03/playlist.m3u8
+
+#EXTINF:-1 tvg-id="LiveEI" tvg-name="TNT Sports 4" tvg-logo="https://imgur.com/A9ORtcR.png" group-title="ESPORTES",TNT Sports 4
+https://glxlmn026c.singularcdn.net.br/playout_04/playlist.m3u8
+
+#EXTINF:-1 tvg-id="LiveEI" tvg-name="TNT Sports 5" tvg-logo="https://imgur.com/A9ORtcR.png" group-title="ESPORTES",TNT Sports 5
+https://glxlmn026c.singularcdn.net.br/playout_05/playlist.m3u8
