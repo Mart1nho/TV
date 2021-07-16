@@ -183,7 +183,7 @@ http://tvdns.tech:80/768685875765/768685775775/757923
 #EXTINF:-1 tvg-id="Animalplanet.br" tvg-logo="https://imgur.com/A2PPv27.png" group-title="PLUTO TV BRASIL",Animal Planet
 https://edge-aws.aovivotv.xyz/hls/s:78.47.27.206/animalplanet_e114c448_d07068f138bb5d5ca1850a61e8f393c659530b50/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Animalplanet.br" tvg-logo="https://imgur.com/zQR5Cy0.png" group-title="PLUTO TV BRASIL",National Geographic
+#EXTINF:-1 tvg-id="NatGeo" tvg-logo="https://imgur.com/zQR5Cy0.png" group-title="PLUTO TV BRASIL",National Geographic
 https://edge-aws.aovivotv.xyz/hls/s:78.46.240.155/nationalgeographic_2e01e174_33f34d43819e2a785c178d6a3f98b3856330decc/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Sportv.br" tvg-logo="https://i.imgur.com/YzY6fI2.png" group-title="ESPORTES",SporTV HD
