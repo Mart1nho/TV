@@ -6,7 +6,7 @@ https://runtimebrazil-samsungbrazil.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="Ideal TV HD" tvg-logo="https://imgur.com/KJC8QgR.png" group-title="TV",D+TV
 https://stmv1.samcast.com.br/demaistv6503/demaistv6503/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Ideal TV HD" tvg-logo="https://imgur.com/sWq5Hwi.png" group-title="TV",TV NOVA PLAY
+#EXTINF:-1 tvg-id="Ideal TV HD" tvg-logo="https://imgur.com/KCiNjy4.png" group-title="TV",TV NOVA PLAY
 https://srv4.zcast.com.br/tvnovaplay/tvnovaplay/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Ideal TV HD" tvg-logo="https://imgur.com/j9L640w.png" group-title="TV",ARAGUAIA TV
@@ -171,8 +171,17 @@ https://origin-02.nxplay.com.br/classichit/video.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/y4BLAM7.png" group-title="MUSICA", Zapping Music
 https://zmlive.zappingtv.com/zm-free/zm.smil/playlist.m3u8
 
+#EXTINF:-1 tvg-chno="29" tvg-id="Ideal TV HD" tvg-name="Rewind TV" tvg-logo="https://imgur.com/G2fAHXu.png" group-title="MUSICA",Rewind TV
+https://tls.cdnz.cl/rewindtv/rewindtv/playlist.m3u8
+
+#EXTINF:-1 tvg-chno="30" tvg-id="VH1.br" tvg-name="VH1" tvg-logo="https://i.imgur.com/QHpdmma.png" group-title="MUSICA",VH1 Itália
+https://content.uplynk.com/channel/36953f5b6546464590d2fcd954bc89cf.m3u8
+
 #EXTINF:-1 tvg-id="Discovery Channel" tvg-logo="https://imgur.com/pSGaYxf.png" group-title="PLUTO TV BRASIL",Discovery Channel
 http://tvdns.tech:80/768685875765/768685775775/757923
+
+#EXTINF:-1 tvg-id="Animalplanet.br" tvg-logo="https://imgur.com/A2PPv27.png" group-title="PLUTO TV BRASIL",Animal Planet
+https://edge-aws.aovivotv.xyz/hls/s:78.47.27.206/animalplanet_e114c448_d07068f138bb5d5ca1850a61e8f393c659530b50/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Sportv.br" tvg-logo="https://i.imgur.com/YzY6fI2.png" group-title="ESPORTES",SporTV HD
 https://newedge.eu-central-1.edge.mycdn.live/live/vintequatrohrs2/vintequatrohrs2_2000/index.m3u8
