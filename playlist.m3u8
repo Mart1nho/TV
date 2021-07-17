@@ -1,16 +1,13 @@
 #EXTM3U url-tvg="https://raw.githubusercontent.com/Mart1nho/TV/main/epg.xml"
 
-#EXTINF:-1 tvg-id="RuntimeBrazil.us" tvg-name="Runtime (Brazil)" tvg-logo="https://imgur.com/49gpvl3.png" group-title="TV",Runtime
+#EXTINF:-1 tvg-id="Amc" tvg-logo="https://imgur.com/m7ysQk1.png" group-title="TV",AMC
+http://50.7.34.155:2200/BR/AMC_HD-br/tracks-v1a1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Space" tvg-logo="https://imgur.com/89khpLJ.png" group-title="TV",Space
+http://50.7.34.155:2200/BR/Space_HD-br/tracks-v1a1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="RuntimeBrazil" tvg-name="Runtime" tvg-logo="https://imgur.com/49gpvl3.png" group-title="TV",Runtime
 https://runtimebrazil-samsungbrazil.amagi.tv/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Ideal TV HD" tvg-logo="https://imgur.com/KJC8QgR.png" group-title="TV",D+TV
-https://stmv1.samcast.com.br/demaistv6503/demaistv6503/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Ideal TV HD" tvg-logo="https://imgur.com/KCiNjy4.png" group-title="TV",TV NOVA PLAY
-https://srv4.zcast.com.br/tvnovaplay/tvnovaplay/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Ideal TV HD" tvg-logo="https://imgur.com/j9L640w.png" group-title="TV",ARAGUAIA TV
-https://video01.kshost.com.br/mayra5349/mayra5349/playlist.m3u8?t=1626142000
 
 #EXTINF:0 channel-id="pluto-tv-cine-sucessos" tvg-logo="https://imgur.com/6k7cOAE.png" group-title="PLUTO TV BRASIL", Pluto TV Cine Sucessos
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f120e94a5714d00074576a1/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=977e45a0-629b-11eb-86b1-3facc9da388a&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=52960630-50b9-4a4d-b84b-6ed25b88774b&userId=&serverSideAds=true
@@ -178,13 +175,13 @@ https://tls.cdnz.cl/rewindtv/rewindtv/playlist.m3u8
 https://content.uplynk.com/channel/36953f5b6546464590d2fcd954bc89cf.m3u8
 
 #EXTINF:-1 tvg-id="Discovery Channel" tvg-logo="https://imgur.com/pSGaYxf.png" group-title="PLUTO TV BRASIL",Discovery Channel
-http://tvdns.tech:80/768685875765/768685775775/757923
+http://50.7.34.155:2200/BR/Discovery_Channel_HD-br/tracks-v1a1/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Animalplanet.br" tvg-logo="https://imgur.com/A2PPv27.png" group-title="PLUTO TV BRASIL",Animal Planet
-https://edge-aws.aovivotv.xyz/hls/s:78.47.27.206/animalplanet_e114c448_d07068f138bb5d5ca1850a61e8f393c659530b50/playlist.m3u8
+http://50.7.34.155:2200/BR/Animal_Planet_HD-br/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="NatGeo" tvg-logo="https://imgur.com/zQR5Cy0.png" group-title="PLUTO TV BRASIL",National Geographic
-https://edge-aws.aovivotv.xyz/hls/s:78.46.240.155/nationalgeographic_2e01e174_33f34d43819e2a785c178d6a3f98b3856330decc/playlist.m3u8
+http://50.7.34.155:2200/BR/Nat_Geo_HD-br/tracks-v1a1/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Sportv.br" tvg-logo="https://i.imgur.com/YzY6fI2.png" group-title="ESPORTES",SporTV HD
 https://newedge.eu-central-1.edge.mycdn.live/live/vintequatrohrs2/vintequatrohrs2_2000/index.m3u8
@@ -194,6 +191,15 @@ http://srvtv.online:80/981AGHJ76/3846590345/6910
 
 #EXTINF:-1 tvg-id="Premiereclubes.br" tvg-logo="https://i.imgur.com/6uxBFpQ.png" group-title="ESPORTES",Premiere Clubes
 https://newedge.eu-central-1.edge.mycdn.live/live/esportes10/esportes10_2000/index.m3u8
+
+#EXTINF:-1 tvg-id="Premiere 2" tvg-logo="https://i.imgur.com/6uxBFpQ.png" group-title="ESPORTES",Premiere 2
+http://50.7.34.155:2200/BR/Premiere_2_HD-br/tracks-v1a1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Premiere 3" tvg-logo="https://i.imgur.com/6uxBFpQ.png" group-title="ESPORTES",Premiere 3
+http://50.7.34.155:2200/BR/Premiere_3_HD-br/tracks-v1a1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Premiere 4" tvg-logo="https://i.imgur.com/6uxBFpQ.png" group-title="ESPORTES",Premiere 4
+http://50.7.34.155:2200/BR/Premiere_4_HD-br/tracks-v1a1/playlist.m3u8
 
 #EXTINF:-1 tvg-id="LiveEI" tvg-name="TNT Sports" tvg-logo="https://imgur.com/T97j44o.png" group-title="ESPORTES",TNT Sports
 https://glxlmn026c.singularcdn.net.br/playout_01/playlist.m3u8
