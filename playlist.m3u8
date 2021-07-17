@@ -6,6 +6,9 @@ http://50.7.34.155:2200/BR/AMC_HD-br/tracks-v1a1/playlist.m3u8
 #EXTINF:-1 tvg-id="Space" tvg-logo="https://imgur.com/89khpLJ.png" group-title="TV",Space
 http://50.7.34.155:2200/BR/Space_HD-br/tracks-v1a1/playlist.m3u8
 
+#EXTINF:-1 tvg-id="Telecine Premium" tvg-logo="https://imgur.com/o8uzYc2.png" group-title="TV",Telecine Premium
+http://50.7.34.155:2200/BR/Telecine_Premium_HD-br/tracks-v1a1/playlist.m3u8
+
 #EXTINF:-1 tvg-id="RuntimeBrazil" tvg-name="Runtime" tvg-logo="https://imgur.com/49gpvl3.png" group-title="TV",Runtime
 https://runtimebrazil-samsungbrazil.amagi.tv/playlist.m3u8
 
@@ -186,14 +189,8 @@ http://50.7.34.155:2200/BR/Nat_Geo_HD-br/tracks-v1a1/playlist.m3u8
 #EXTINF:-1 tvg-id="Sportv.br" tvg-logo="https://i.imgur.com/YzY6fI2.png" group-title="ESPORTES",SporTV HD
 https://newedge.eu-central-1.edge.mycdn.live/live/vintequatrohrs2/vintequatrohrs2_2000/index.m3u8
 
-#EXTINF:-1 tvg-id="Sportv.br" tvg-logo="https://i.imgur.com/YzY6fI2.png" group-title="ESPORTES",SporTV
-http://srvtv.online:80/981AGHJ76/3846590345/6910
-
 #EXTINF:-1 tvg-id="Premiereclubes.br" tvg-logo="https://i.imgur.com/6uxBFpQ.png" group-title="ESPORTES",Premiere Clubes
 https://newedge.eu-central-1.edge.mycdn.live/live/esportes10/esportes10_2000/index.m3u8
-
-#EXTINF:-1 tvg-id="Premiere 2" tvg-logo="https://i.imgur.com/6uxBFpQ.png" group-title="ESPORTES",Premiere 2
-http://50.7.34.155:2200/BR/Premiere_2_HD-br/tracks-v1a1/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Premiere 3" tvg-logo="https://i.imgur.com/6uxBFpQ.png" group-title="ESPORTES",Premiere 3
 http://50.7.34.155:2200/BR/Premiere_3_HD-br/tracks-v1a1/playlist.m3u8
